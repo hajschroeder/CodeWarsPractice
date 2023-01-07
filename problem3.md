@@ -34,3 +34,5 @@ This solution is a bit more straightforward but less elegant. We establish a var
 ```
 
 Following this, we implement a for...of loop. This loop works by accepting a variable which will be the index item that is run through our iterable. In this case, we state that `char` (our index) will be iterated through `str` (which is both our iterable and our functions argument). Our if statement is written to state that if, within our established vowel array, there includes 
+
+-HS
