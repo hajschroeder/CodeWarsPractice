@@ -1,4 +1,4 @@
-#Problem 3 expanded (another example of a for...of look)
+# Problem 3 expanded (another example of a for...of look)
 
 ```
 function evenNumbers(numberSet){
